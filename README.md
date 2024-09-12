@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Dhruv Bansal</h1>
-<h3 align="center">A passionate android developer from India</h3>
+<p align="center">
+  <br>
+  <samp>
+    <h1 align="center">Hi 👋, I'm Dhruv Bansal</h1>
+    <h3 align="center">A passionate android developer from India</h3>
+  </samp>
+
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200" align="center"/>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrfantastic3dgamer&label=Profile%20views&color=0e75b6&style=flat" alt="mrfantastic3dgamer" /> </p>
 
