@@ -2,7 +2,7 @@
   <br>
   <samp>
     <h1 align="center">Hi 👋, I'm Dhruv Bansal</h1>
-    <h3 align="center">A passionate android developer from India</h3>
+    <h3 align="center">A passionate developer from India</h3>
   </samp>
 
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200" align="center"/>
